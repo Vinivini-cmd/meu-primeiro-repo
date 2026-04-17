@@ -3,3 +3,5 @@
 ## Colaboradores
 - Isabella
 - Ana Julia
+
+- edição feita por Isabella
