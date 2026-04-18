@@ -4,10 +4,11 @@
 - Aprendendo Git e GitHub
 - Meta: Tornar-me desenvolvedor(a)
 ## Habilidades em desenvolvimento
-- [ ] Git básico
-- [ ] HTML/CSS
-- [ ] JavaScript
-- [ ] Trabalho em equipe
+- [x] Git básico
+- [x] HTML/CSS
+- [x] JavaScript
+- [x] Trabalho em equipe
+- [x] Criando branches no Git
 ## Contato
 - GitHub: @Vinivini-cmd
 - E-mail: 00001100025881sp@al.educacao.sp.gov.br
